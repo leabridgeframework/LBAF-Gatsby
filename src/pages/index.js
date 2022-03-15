@@ -9,10 +9,12 @@ const IndexPage = () => {
   return (
   	<Layout pageTitle = "Home Page">
   		<p> I'm making this using the Gatsby Tutorial thing and i'm rubbish</p>
+  		<h2> Oh wow that's cool i've added some more txt</h2>
   		<StaticImage
   			alt="a lovely landscape from unsplash"
         src="../images/Landscape-unsplash.jpg"
         />
+
   	</Layout>
   )
 }
